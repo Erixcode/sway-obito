@@ -1,0 +1,22 @@
+# Key feedback colors (Ring)
+inside-color=00000000
+ring-color=ac82e9
+key-hl-color=d4b5fc
+line-color=00000000
+
+# Text and Verification
+text-color=ffffff
+inside-ver-color=00000000
+ring-ver-color=8a63c2
+text-ver-color=ffffff
+
+# Wrong Password Feedback
+inside-wrong-color=00000000
+ring-wrong-color=ff6c6b
+text-wrong-color=ffffff
+
+# Misc
+separator-color=00000000
+bs-hl-color=ff6c6b
+caps-lock-bs-hl-color=ff6c6b
+caps-lock-key-hl-color=d4b5fc
